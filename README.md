@@ -1,5 +1,22 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+A fully responsive Modern Full Stack Ecommerce application with Payments functionality. With Modern design, animations, the ability to add and edit products on the go using a CMS, all advanced cart functionalities, and most importantly the complete integration with Stripe so that you can cover real payments.
+
+## Screen Grabs
+![hero](./public/images/hero.png)
+
+![footer](./public/images/footer.png)
+
+![product-detail](./public/images/product-detail.png)
+
+![cart-empty](./public/images/cart-empty.png)
+
+![cart-order](./public/images/cart-order.png)
+
+![payment-form](./public/images/payment-form.png)
+
+![success-purchase](./public/images/success-purchase.png)
+
 ## Getting Started
 
 First, run the development server:
