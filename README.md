@@ -1,12 +1,19 @@
+# Plant Kingdom
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 A fully responsive Modern Full Stack Ecommerce application with Payments functionality. With Modern design, animations, the ability to add and edit products on the go using a CMS, all advanced cart functionalities, and most importantly the complete integration with Stripe so that you can cover real payments.
 
 ## Deployment access with Vercel
-https://ecommerce-nine-sigma.vercel.app/
+https://plant-kingdom.vercel.app/
 
 ## Screen Grabs
-
+![Hero](./public/images/Hero.png)
+![Footer](./public/images/Footer.png)
+![CartEmpty](./public/images/CartEmpty.png)
+![Cart](./public/images/Cart.png)
+![Payment](./public/images/Payment.png)
+![OrderSuccess](./public/images/OrderSuccess.png)
 
 ## Getting Started
 
@@ -40,4 +47,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# PlantKingdom
