@@ -167,7 +167,7 @@ width: 100%;
 .hero-banner-image{
   position: absolute;
   top: 0%;
-  right:20%;
+  right:0%;
   width: 450px;
   height: 450px;
 }
@@ -223,7 +223,6 @@ text-align: end;
 }
 .banner-desc{
   display: flex ;
-  justify-content: space-between;
 }
 .banner-desc button{
   border-radius: 15px;
@@ -246,10 +245,9 @@ text-align: end;
 }
 .footer-banner-image{
   position: absolute;
-  /* top: -35%;
-  left: 8%; */
-  top: -15%;
-  left: 20%;
+  top: 0%;
+  left: 65%;
+  /* right: 100%; */
   width: 35%;
   height: 80%;
 }
